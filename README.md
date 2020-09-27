@@ -88,8 +88,5 @@ need to be very sure while flagging a provider as potential fraud.To evaluate mo
 scenario we can use following metrics:
 
 <b>1. log-loss</b>
-<img src="https://conorsdatablog.files.wordpress.com/2018/03/log_loss.png?w=615&h=597" alt="Image error" width="500" height="300">
-<img src="https://i.stack.imgur.com/UN1Pk.png" alt="Image error" width="500" height="150"></div>
-
 <b>2. Binary Confusion Matrix</b>
-<img src="https://miro.medium.com/max/2102/1*fxiTNIgOyvAombPJx5KGeA.png" alt="Image error" width="300" height="250">
+<b>3. Precision,recall and F1 score</b>
