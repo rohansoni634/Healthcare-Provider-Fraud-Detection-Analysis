@@ -86,7 +86,8 @@ need to predict whether the corresponding provider needs to be flagged as potent
 Since most of the providers are not a potential fraud,this makes our dataset Imbalanced .Also we
 need to be very sure while flagging a provider as potential fraud.To evaluate model performance in this
 scenario we can use following metrics:
-
-<b>1. log-loss</b>
-<b>2. Binary Confusion Matrix</b>
-<b>3. Precision,recall and F1 score</b>
+<ul>
+<li><b>1. log-loss</b></li>
+<li><b>2. Binary Confusion Matrix</b></li>
+<li><b>3. Precision,recall and F1 score</b></li>
+<ul>
