@@ -1,6 +1,6 @@
 # Healthcare-Provider-Fraud-Detection-Analysis 
+<a href="https://medium.com/@rohansoni.jssaten2019/healthcare-provider-fraud-detection-and-analysis-machine-learning-6af6366caff2?source=friends_link&sk=9533366b150c0dc97d2323ce43578185">Blog link</a>
 
-### Blog link : medium.com/@rohansoni.jssaten2019
 
 
 The main goal of this project is to ’Predict the potentially fraudulent providers’ based on the claims filed by them. Also we will discover what are the most important variables helpful in detecting the behaviour of potentially fraud providers so that we may flag such claims and perform in depth investigation on them.
