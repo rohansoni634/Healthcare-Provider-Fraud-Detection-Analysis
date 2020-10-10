@@ -1,5 +1,5 @@
 # Healthcare-Provider-Fraud-Detection-Analysis 
-<a href="https://medium.com/@rohansoni.jssaten2019/healthcare-provider-fraud-detection-and-analysis-machine-learning-6af6366caff2?source=friends_link&sk=9533366b150c0dc97d2323ce43578185">Blog link</a>
+<a href="https://medium.com/@rohansoni.jssaten2019/healthcare-provider-fraud-detection-and-analysis-machine-learning-6af6366caff2?source=friends_link&sk=9533366b150c0dc97d2323ce43578185">Healthcare-Provider-Fraud-Detection-Analysis</a>
 
 
 
